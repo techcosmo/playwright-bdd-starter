@@ -1,5 +1,3 @@
-![BDD Tests](https://github.com/techcosmo/playwright-bdd-starter/actions/workflows/bdd-tests.yml/badge.svg)
-
 # BDD con Playwright, Cucumber y TypeScript
 
 [![BDD tests](https://github.com/techcosmo/playwright-bdd-starter/actions/workflows/bdd.yml/badge.svg)](https://github.com/techcosmo/playwright-bdd-starter/actions/workflows/bdd.yml)
